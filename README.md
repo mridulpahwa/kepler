@@ -1,7 +1,6 @@
 Hello World
 
-<<<<<<< HEAD
 HI HIH IHIH 
-=======
+hehe
+
 hey
->>>>>>> upstream/main
